@@ -1,0 +1,19 @@
+{
+  "background_color": "#4b70a0",
+  "description": "The Homepage of the Official z1g Project!",
+  "dir": "/",
+  "display": "fullscreen",
+  "name": "z1g Project",
+  "orientation": "any",
+  "scope": ".",
+  "short_name": "Z1g Project",
+  "start_url": "/",
+  "theme_color": "#231f1f",
+  "icons": [
+    {
+      "src": "/assets/img/icon.png",
+      "type": "image/png",
+      "sizes": "502x497"
+    }
+  ]
+}
